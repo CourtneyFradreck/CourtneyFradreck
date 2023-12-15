@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CourtneyFradreck
 - 👀 I’m interested in programming and web development.
-- 🌱 I’m currently learning python, html and C language.
+- 🌱 I’m currently learning JavaScript, python, and C language.
 - 💞️ I’m looking to collaborate on any type of projects that will increase my programming ability.
 - 📫 How to reach me ... you can email me at courtaga@gmail.com
 
