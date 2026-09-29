@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @CourtneyFradreck
 - 🌐 Check out my portfolio at [courtneyis.me](https://courtneyis.me)
 - 👀 I'm interested in programming and web development.
-- 🌱 I'm currently learning Java, JavaScript, Python, and C#.
+- 🌱 I'm currently learning Java and C#.
 - 💞️ I'm looking to collaborate on any type of projects that will increase my programming ability.
 - 📫 How to reach me ... you can email me at [courtaga@gmail.com](mailto:courtaga@gmail.com)
 
